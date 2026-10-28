@@ -9,7 +9,6 @@ Despite achieving **$1.0M in Total Sales** with a highly efficient **67% Profit 
 *   **Stagnant Capital:** Too much inventory budget is tied up in slow-moving, low-margin products.
 *   **Expansion Blindspots:** Leadership lacks localized performance data to open new sales channels safely.
 
----
 
 ## Strategic Project Goals
 *   **Isolate Revenue Valleys:** Identify specific low-sales months to predict and mitigate demand slumps.
@@ -17,7 +16,6 @@ Despite achieving **$1.0M in Total Sales** with a highly efficient **67% Profit 
 *   **Map Growth Pathways:** Cross-reference regional demand to open proven geographic sales channels.
 *   **Inventory Playbook:** Design a "pre-cleanse" promotional plan to clear slow stock during seasonal dips.
 
----
 
 ## Workflow & Tech Stack
 
@@ -29,23 +27,21 @@ Despite achieving **$1.0M in Total Sales** with a highly efficient **67% Profit 
 *   Built a star-schema data model linking sales dates, products, and locations.
 *   Designed an interactive executive dashboard optimized for instant scannability.
 
----
 
 ## Performance Insights & Visuals
 
 ### Executive Performance Summary
-*   **Insight:** Strong overall healthy foundations: $1.0M revenue, 67% profit margins.
-    ![Key Metrics Overview](assets/key_metrics_overview.png)
+*   *Insight:* Strong overall healthy foundations: $1.0M revenue, 67% profit margins.
+    ![Key Metrics Overview](Assets/Key_metrics_overview.png)
 
 ### Seasonal Revenue Valleys
-*   **Insight:** Drastic dips occur during predictable months, requiring proactive demand-generation strategies.
-    ![Sales Seasonality](assets/sales_seasonality_and_categories.png)
+*   *Insight:* Drastic dips occur during predictable months, requiring proactive demand-generation strategies.
+    ![Sales Seasonality](Assets/Top%20sales%20by%20month.png)
 
 ### Profit Drivers vs. Underperformers
-*   **Insight:** Core products like *Tennis Balls* and *Gym Gloves* generate the majority of net profits, pinpointing where to double-down on stock.
-    ![Profit Drivers](assets/profit_drivers_and_geography.png)
+*   *Insight:* Core products like Tennis Balls and Gym Gloves generate the majority of net profits, pinpointing where to double-down on stock.
+    ![Profit Drivers](Assets/Top%2010%20Products%20by%20Profit.png)
 
----
 
 ## Strategic Recommendations
 
